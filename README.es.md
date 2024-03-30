@@ -58,6 +58,10 @@ Español | [Inglés](./README.md)
       <br>Dart
     </td>
     -->
+    <td align="center" width="96">
+      <img alt="Rust" width="48" height="48" src="./icons/rust/rust-blk-128.svg">
+      <br>Rust
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
